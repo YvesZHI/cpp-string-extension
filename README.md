@@ -1,4 +1,7 @@
 # string-extension
+## Attention
+TODO: `std::queue` and `std::stack`.
+
 ## General
 The function `std::string string_ext::to_string(const T&)` returns a string, which is the content of the parameter `T`.
 
